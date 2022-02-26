@@ -2,9 +2,9 @@ function renderSA_building() {
   const main = document.querySelector("main");
   
 
-  const extra_book = document.createElement("div");
-  extra_book.id = "extra_book";
-  main.appendChild(extra_book);
+  const big_block = document.createElement("div");
+  big_block.id = "big_block";
+  main.appendChild(big_block);
 
   
 }
