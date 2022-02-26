@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+#big_block{
+  background-color: red;
+  height: 200px;
+  width: 100px ;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+}
