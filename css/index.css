@@ -3,7 +3,7 @@ body {
 }
 
 #big_block{
-  background-color: red;
+  background-color: #bc535b;
   height: 300px ;
   width: 400px ;
   position: fixed;
@@ -11,4 +11,5 @@ body {
   left: 50%;
   margin-top: -300px;
   margin-left: -250px;
+  border-radius: 10px
 }
