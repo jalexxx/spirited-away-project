@@ -7,6 +7,11 @@ function renderSA_building() {
   big_block.id = "big_block";
   main.appendChild(big_block);
 
+  document.createElement("div");
+  const front_block = document.createElement("div");
+  front_block.id = "front_block";
+  main.appendChild(front_block);
+
   
 };
 
