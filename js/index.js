@@ -12,6 +12,12 @@ function renderSA_building() {
   front_block.id = "front_block";
   main.appendChild(front_block);
 
+  document.createElement("div");
+  const front_door = document.createElement("div");
+  front_door.id = "front_door";
+  main.appendChild(front_door);
+
+
   
 };
 
