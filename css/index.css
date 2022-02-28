@@ -3,14 +3,26 @@ body {
 }
 
 #big_block{
-  background-color: 
-  #cb6b63;
+  background-color:  #cb6b63;
   height: 400px ;
-  width: 400px ;
+  width: 450px ;
   position: fixed;
   top: 50%;
   left: 50%;
   margin-top: -200px;
   margin-left: -200px;
-  border-radius: 10px
+  border-radius: 10px;
+}
+
+#front_block{
+  background-color: #d8776e;
+  height: 300px;
+  width: 150px;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  margin-top: -200px;
+  margin-left: -50px;
+
+
 }
