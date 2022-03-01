@@ -17,6 +17,12 @@ function renderSA_building() {
   front_door.id = "front_door";
   main.appendChild(front_door);
 
+  document.createElement("div");
+  const inside_front_door = document.createElement("div");
+  inside_front_door.id = "inside_front_door";
+  main.appendChild(inside_front_door);
+
+
 
   
 };

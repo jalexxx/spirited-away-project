@@ -24,5 +24,18 @@ body {
   margin-top: -200px;
   margin-left: -50px;
 
+}
 
+#front_door{
+  /* background-color: #453d3a; */
+  /* border-radius: 25px; */
+  border: 35px solid #453d3a;
+  padding: 20px;
+  height:40px;
+  width: 40px;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  margin-top: 50px;
+  margin-left: -50px;
 }
