@@ -28,7 +28,7 @@ function renderSA_building() {
   main.appendChild(door_sign);
 
   const door_sign_text = document.createElement("h1");
-  door_sign_text.innerHTML = "油";
+  door_sign_text.innerHTML = "ゆ";
   main.appendChild(door_sign_text);
 
 
