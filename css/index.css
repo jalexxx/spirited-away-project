@@ -26,16 +26,30 @@ body {
 
 }
 
+
 #front_door{
   /* background-color: #453d3a; */
   /* border-radius: 25px; */
-  border: 35px solid #453d3a;
+  border: 30px solid #453d3a;
   padding: 20px;
-  height:40px;
-  width: 40px;
+  height:50px;
+  width: 50px;
   top: 50%;
   left: 50%;
   position: fixed;
   margin-top: 50px;
   margin-left: -50px;
+  z-index: 1;
 }
+
+#inside_front_door{
+  background-color: black;
+  height:150px;
+  width: 150px;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  margin-top: 50px;
+  margin-left: -50px;
+
+} 
