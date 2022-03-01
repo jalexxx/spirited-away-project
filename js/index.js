@@ -29,6 +29,7 @@ function renderSA_building() {
 
   const door_sign_text = document.createElement("h1");
   door_sign_text.innerHTML = "ゆ";
+  door_sign_text.id = "door_sign_text";
   main.appendChild(door_sign_text);
 
 

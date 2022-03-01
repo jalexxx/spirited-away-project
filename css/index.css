@@ -64,3 +64,18 @@ body {
   margin-top: 50px;
   margin-left: -50px;
 }
+
+#door_sign_text{
+  color: #5a637093;
+  font-size: 30px;
+  font-family: 'Special Elite', cursive;
+  height:80px;
+  width: 150px;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  margin-top: 78px;
+  margin-left: 10px;
+  z-index: 1;
+
+}
