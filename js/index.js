@@ -21,6 +21,11 @@ function renderSA_building() {
   const inside_front_door = document.createElement("div");
   inside_front_door.id = "inside_front_door";
   main.appendChild(inside_front_door);
+  
+  document.createElement("div");
+  const door_sign = document.createElement("div");
+  door_sign.id = "door_sign";
+  main.appendChild(door_sign);
 
 
 
