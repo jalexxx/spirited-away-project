@@ -27,6 +27,8 @@ function renderSA_building() {
   door_sign.id = "door_sign";
   main.appendChild(door_sign);
 
+  
+
 
 
   

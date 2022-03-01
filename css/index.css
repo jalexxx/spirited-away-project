@@ -53,3 +53,14 @@ body {
   margin-left: -50px;
 
 } 
+
+#door_sign {
+  background-color: #3b4e55;
+  height:80px;
+  width: 150px;
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  margin-top: 50px;
+  margin-left: -50px;
+}
